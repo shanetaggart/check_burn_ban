@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Counties xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <County>
+        <CountyName>Annapolis</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Antigonish</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Cape Breton</CountyName>
+        <ConditionEnglish>Burn</ConditionEnglish>
+        <ConditionFrench>Permis</ConditionFrench>
+        <Color>#00994C</Color>
+    </County>
+    <County>
+        <CountyName>Colchester</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Cumberland</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Digby</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Guysborough</CountyName>
+        <ConditionEnglish>Burn</ConditionEnglish>
+        <ConditionFrench>Permis</ConditionFrench>
+        <Color>#00994C</Color>
+    </County>
+    <County>
+        <CountyName>Halifax</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Hants</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Inverness</CountyName>
+        <ConditionEnglish>Burn</ConditionEnglish>
+        <ConditionFrench>Permis</ConditionFrench>
+        <Color>#00994C</Color>
+    </County>
+    <County>
+        <CountyName>Kings</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Lunenburg</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Pictou</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Queens</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Richmond</CountyName>
+        <ConditionEnglish>Burn</ConditionEnglish>
+        <ConditionFrench>Permis</ConditionFrench>
+        <Color>#00994C</Color>
+    </County>
+    <County>
+        <CountyName>Shelburne</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+    <County>
+        <CountyName>Victoria</CountyName>
+        <ConditionEnglish>Burn</ConditionEnglish>
+        <ConditionFrench>Permis</ConditionFrench>
+        <Color>#00994C</Color>
+    </County>
+    <County>
+        <CountyName>Yarmouth</CountyName>
+        <ConditionEnglish>Restricted</ConditionEnglish>
+        <ConditionFrench>Permis avec restrictions</ConditionFrench>
+        <Color>#FDB525</Color>
+    </County>
+</Counties>
